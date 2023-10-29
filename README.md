@@ -18,3 +18,7 @@ cd ~ // root directory
 ```
 mkdir Angela
 ```
+## Create new file
+```
+touch Text.txt
+```
