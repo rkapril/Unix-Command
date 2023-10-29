@@ -22,3 +22,7 @@ mkdir Angela
 ```
 touch Text.txt
 ```
+## Open file
+```
+open Text.txt
+```
