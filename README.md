@@ -27,3 +27,7 @@ touch Text.txt
 start Text.txt
 code Text.txt
 ```
+## Delete file
+```
+rm Text.txt
+```
