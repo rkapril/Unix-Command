@@ -7,6 +7,6 @@ ls
 ## Change directory
 ```
 cd
-cd ..
+cd .. // move 1 level up
 cd ~ // root directory
 ```
