@@ -43,3 +43,5 @@ rm *
 ```
 rm -r Angela
 ```
+## More
+- https://www.learnenough.com/command-line-tutorial
