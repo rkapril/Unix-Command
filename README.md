@@ -4,6 +4,10 @@
 ```
 ls
 ```
+## Print working dirextory
+```
+pwd
+```
 ## Change directory
 ```
 cd
