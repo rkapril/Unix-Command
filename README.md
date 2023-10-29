@@ -3,3 +3,7 @@ List
 ```
 ls
 ```
+Change directory
+```
+cd
+```
