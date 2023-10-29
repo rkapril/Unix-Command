@@ -35,3 +35,7 @@ code Text.txt
 ```
 rm Text.txt
 ```
+## Delete all files
+```
+rm *
+```
