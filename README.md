@@ -4,7 +4,7 @@
 ```
 ls
 ```
-## Print working dirextory
+## Print working directory
 ```
 pwd
 ```
