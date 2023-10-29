@@ -7,4 +7,6 @@ ls
 ## Change directory
 ```
 cd
+cd ..
+cd ~ // root directory
 ```
