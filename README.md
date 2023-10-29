@@ -16,5 +16,5 @@ cd ~ // root directory
 3. Ctrl U (Clear the whole line)
 ## Make directory
 ```
-mkdir
+mkdir Angela
 ```
