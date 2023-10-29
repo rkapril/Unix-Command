@@ -39,3 +39,7 @@ rm Text.txt
 ```
 rm *
 ```
+## Delete folder
+```
+rm Angela
+```
