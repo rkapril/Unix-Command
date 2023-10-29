@@ -41,5 +41,5 @@ rm *
 ```
 ## Delete folder
 ```
-rm Angela
+rm -r Angela
 ```
