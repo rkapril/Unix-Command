@@ -43,5 +43,9 @@ rm *
 ```
 rm -r Angela
 ```
+## Convert docx file to text file
+```
+docx2txt Notes.docx
+```
 ## More
 - https://www.learnenough.com/command-line-tutorial
